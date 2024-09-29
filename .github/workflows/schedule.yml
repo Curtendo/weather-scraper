@@ -2,7 +2,8 @@ name: Daily Weather Scraper
 
 on:
   schedule:
-    - cron: '35 2 * * *' # This will run at 2:35 AM UTC / 11:35 AM JST every day
+    - cron: '45 2 * * *' # This will run at 2:35 AM UTC / 11:35 AM JST every day
+    workflow_dispatch:
 
 jobs:
   scrape:
