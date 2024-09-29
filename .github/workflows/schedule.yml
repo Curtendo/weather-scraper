@@ -2,7 +2,7 @@ name: Daily Weather Scraper
 
 on:
   schedule:
-    - cron: '6 3 * * *' # Adjust this as needed
+    - cron: '*/5 * * * *' # Adjust this as needed
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: '3.9' # Specify a precise version
+          python-version: '3.9'
 
       - name: Install dependencies
         run: |
