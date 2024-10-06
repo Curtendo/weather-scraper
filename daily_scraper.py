@@ -8,7 +8,7 @@ city_urls = [
     {"city": "Kakamigahara", "url": "https://www.toshin.com/weather/forecast90days?id=62869"},
     {"city": "Tokyo", "url": "https://www.toshin.com/weather/forecast90days?id=281"},
     {"city": "Osaka", "url": "https://www.toshin.com/weather/forecast90days?id=58095"},
-    {"city": "Sapporo", "url": "https://www.toshin.com/weather/forecast90days?id=54959"},
+    {"city": "Sapporo", "url": "https://www.toshin.com/weather/forecast90days?id=59988"},
     {"city": "Okinawa", "url": "https://www.toshin.com/weather/forecast90days?id=856"},
 ]
 
