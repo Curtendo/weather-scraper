@@ -2,7 +2,7 @@ name: Daily Weather Scraper
 
 on:
   schedule:
-    - cron: '0 2 * * *' # Adjust this as needed
+    - cron: '0 4 * * *' # Adjust this as needed
   workflow_dispatch:
 
 jobs:
