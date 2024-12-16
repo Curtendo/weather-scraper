@@ -6,7 +6,7 @@ import os
 # List of cities and their respective URLs
 city_urls = [
     {"city": "Kakamigahara", "url": "https://www.toshin.com/weather/forecast90days?id=62869"},
-    {"city": "Tokyo", "url": "https://www.toshin.com/weather/forecast90days?id=281"},
+    {"city": "Tokyo", "url": "https://www.toshin.com/weather/forecast90days?id=56682"},
     {"city": "Osaka", "url": "https://www.toshin.com/weather/forecast90days?id=58095"},
     {"city": "Sapporo", "url": "https://www.toshin.com/weather/forecast90days?id=59988"},
     {"city": "Okinawa", "url": "https://www.toshin.com/weather/forecast90days?id=856"},
