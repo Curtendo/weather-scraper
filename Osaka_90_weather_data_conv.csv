@@ -1,0 +1,91 @@
+date,min_temp,max_temp,rain_chance,total_rainfall,conditions
+2024-09-29,24,29,20%,0.0,Sunny then cloudy
+2024-09-30,23,30,10%,0.0,Sunny
+2024-10-01,22,31,20%,0.0,Sunny
+2024-10-02,23,30,60%,0.2,Showers
+2024-10-03,24,27,20%,0.0,Mostly cloudy
+2024-10-04,23,30,10%,0.0,Mostly cloudy
+2024-10-05,24,33,30%,0.0,Occasionally cloudy
+2024-10-06,24,32,40%,0.6,Cloudy
+2024-10-07,23,31,40%,0.0,Mostly cloudy
+2024-10-08,18,24,60%,0.7,Showers
+2024-10-09,19,20,90%,1.3,Rain
+2024-10-10,17,18,90%,3.5,Rain
+2024-10-11,17,18,80%,6.8,Rain
+2024-10-12,17,19,80%,0.9,Rain
+2024-10-13,15,22,20%,0.0,Mostly cloudy
+2024-10-14,14,22,20%,0.0,Mostly cloudy
+2024-10-15,14,22,30%,0.0,Occasionally cloudy
+2024-10-16,15,23,30%,0.0,Occasionally cloudy
+2024-10-17,16,24,30%,0.0,Mostly cloudy
+2024-10-18,17,24,80%,0.0,Showers
+2024-10-19,17,22,70%,0.0,Thunderstorm
+2024-10-20,16,24,30%,0.0,Occasionally cloudy
+2024-10-21,13,22,20%,0.0,Occasionally cloudy
+2024-10-22,15,23,60%,0.0,Occasionally cloudy
+2024-10-23,12,21,20%,0.0,Mostly Sunny
+2024-10-24,13,20,30%,0.0,Mostly cloudy
+2024-10-25,16,22,30%,0.0,Cloudy
+2024-10-26,14,23,30%,0.0,Occasionally cloudy
+2024-10-27,12,22,30%,0.0,Mostly cloudy
+2024-10-28,15,23,60%,0.0,Showers
+2024-10-29,13,22,10%,0.0,Mostly Sunny
+2024-10-30,11,19,20%,0.0,Mostly cloudy
+2024-10-31,12,19,30%,0.0,Cloudy
+2024-11-01,14,22,30%,0.0,Mostly cloudy
+2024-11-02,14,22,70%,0.0,Thunderstorm
+2024-11-03,12,19,20%,0.0,Mostly cloudy
+2024-11-04,11,20,20%,0.0,Mostly cloudy
+2024-11-05,10,18,20%,0.0,Occasionally cloudy
+2024-11-06,12,17,60%,0.0,Showers
+2024-11-07,10,18,10%,0.0,Mostly Sunny
+2024-11-08,9,18,30%,0.0,Mostly cloudy
+2024-11-09,10,19,30%,0.0,Cloudy
+2024-11-10,10,17,30%,0.0,Mostly cloudy
+2024-11-11,9,17,0%,0.0,Mostly cloudy
+2024-11-12,11,17,0%,0.0,Mostly Sunny
+2024-11-13,13,17,50%,0.0,Rain with occasional clear skies
+2024-11-14,12,16,30%,0.0,Cloudy with occassional rain
+2024-11-15,12,17,30%,0.0,Clear with occasional rain
+2024-11-16,12,18,0%,0.0,Sunny
+2024-11-17,13,18,30%,0.0,Clear with occasional rain
+2024-11-18,13,17,40%,0.0,Clear with occasional rain
+2024-11-19,12,17,30%,0.0,Clear with occasional rain
+2024-11-20,12,17,50%,0.0,Rain and occasional clouds
+2024-11-21,11,16,20%,0.0,Sunny
+2024-11-22,13,17,40%,0.0,Rain with occasional clear skies
+2024-11-23,11,16,40%,0.0,Rain with occasional clear skies
+2024-11-24,11,16,0%,0.0,Sunny
+2024-11-25,11,16,30%,0.0,Clear with occasional rain
+2024-11-26,11,15,40%,0.0,Clear with occasional rain
+2024-11-27,11,15,30%,0.0,Clear with occasional rain
+2024-11-28,10,15,30%,0.0,Clear with occasional rain
+2024-11-29,10,15,30%,0.0,Clear with occasional rain
+2024-11-30,10,15,30%,0.0,Clear with occasional rain
+2024-12-01,9,14,10%,0.0,Cloudy with occasional clear skies
+2024-12-02,9,13,20%,0.0,Sunny with occasional clouds
+2024-12-03,10,14,30%,0.0,Sunny with occasional clouds
+2024-12-04,9,14,60%,0.0,Rain with occasional clear skies
+2024-12-05,9,13,30%,0.0,Sunny with occasional clouds
+2024-12-06,8,13,10%,0.0,Sunny
+2024-12-07,8,12,20%,0.0,Sunny with occasional clouds
+2024-12-08,7,13,30%,0.0,Clear with occasional rain
+2024-12-09,8,13,30%,0.0,Sunny
+2024-12-10,9,14,20%,0.0,Sunny with occasional clouds
+2024-12-11,9,14,50%,0.0,Rain and occasional clouds
+2024-12-12,8,12,30%,0.0,Sunny with occasional clouds
+2024-12-13,7,11,30%,0.0,Sunny
+2024-12-14,7,11,20%,0.0,Sunny
+2024-12-15,8,12,30%,0.0,Clear with occasional rain
+2024-12-16,7,12,40%,0.0,Rain with occasional clear skies
+2024-12-17,6,10,40%,0.0,Clear with occasional rain
+2024-12-18,6,9,30%,0.0,Sunny with occasional clouds
+2024-12-19,6,10,30%,0.0,Clear with occasional rain
+2024-12-20,7,10,30%,0.0,Cloudy with occasional clear skies
+2024-12-21,7,11,50%,0.0,Rain with occasional clear skies
+2024-12-22,7,11,50%,0.0,Rain with occasional clear skies
+2024-12-23,7,11,30%,0.0,Clear with occasional rain
+2024-12-24,7,11,30%,0.0,Clear with occasional rain
+2024-12-25,6,11,30%,0.0,Clear with occasional rain
+2024-12-26,7,10,40%,0.0,Rain with occasional clear skies
+2024-12-27,5,10,30%,0.0,Sunny with occasional clouds

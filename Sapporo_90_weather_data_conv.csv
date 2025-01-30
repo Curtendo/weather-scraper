@@ -1,0 +1,91 @@
+date,min_temp,max_temp,rain_chance,total_rainfall,conditions
+2024-09-29,13,22,0%,0.0,Sunny
+2024-09-30,13,23,0%,0.0,Sunny
+2024-10-01,15,24,40%,0.0,Sunny with occasional clouds
+2024-10-02,13,22,90%,0.4,Rain
+2024-10-03,14,20,90%,2.6,Rain
+2024-10-04,15,19,0%,0.0,Sunny
+2024-10-05,14,20,30%,0.0,Mostly cloudy
+2024-10-06,16,21,0%,0.0,Mostly cloudy
+2024-10-07,14,22,70%,9.3,Rain
+2024-10-08,14,23,70%,4.9,Rain
+2024-10-09,4,14,0%,0.0,Sunny
+2024-10-10,7,15,0%,0.0,Rain
+2024-10-11,6,17,0%,0.0,Sunny
+2024-10-12,7,17,0%,0.0,Sunny
+2024-10-13,8,15,30%,0.0,Cloudy
+2024-10-14,5,15,10%,0.0,Sunny
+2024-10-15,5,14,10%,0.0,Mostly Sunny
+2024-10-16,9,16,60%,0.0,Showers
+2024-10-17,7,15,20%,0.0,Mostly cloudy
+2024-10-18,8,15,30%,0.0,Cloudy
+2024-10-19,9,17,60%,0.0,Rain
+2024-10-20,9,17,80%,0.0,Showers
+2024-10-21,8,16,30%,0.0,Cloudy
+2024-10-22,8,14,20%,0.0,Mostly cloudy
+2024-10-23,7,16,70%,0.0,Rain
+2024-10-24,7,14,20%,0.0,Mostly Sunny
+2024-10-25,8,16,30%,0.0,Cloudy
+2024-10-26,7,16,60%,0.0,Showers
+2024-10-27,6,14,20%,0.0,Mostly cloudy
+2024-10-28,7,15,30%,0.0,Mostly cloudy
+2024-10-29,5,15,60%,0.0,Occasionally cloudy
+2024-10-30,5,11,30%,0.0,Occasionally cloudy
+2024-10-31,6,11,80%,0.0,Showers
+2024-11-01,7,14,60%,0.0,Showers
+2024-11-02,6,15,60%,0.0,Showers
+2024-11-03,6,12,30%,0.0,Occasionally cloudy
+2024-11-04,2,13,70%,0.0,Thunderstorm
+2024-11-05,1,11,60%,0.0,Occasionally cloudy
+2024-11-06,4,9,30%,0.0,Mostly cloudy
+2024-11-07,5,11,30%,0.0,Occasionally cloudy
+2024-11-08,2,12,60%,0.0,Showers
+2024-11-09,1,8,60%,0.0,Rain or snow
+2024-11-10,0,9,80%,0.0,Rain or snow
+2024-11-11,4,9,0%,0.0,Occasionally cloudy
+2024-11-12,3,11,0%,0.0,Mostly cloudy
+2024-11-13,5,10,70%,0.0,Rain and occassional snow
+2024-11-14,5,8,60%,0.0,Cloudy with occassional rain
+2024-11-15,4,7,80%,0.0,Rain and occassional snow
+2024-11-16,4,7,40%,0.0,Sunny with occasional clouds
+2024-11-17,3,7,70%,0.0,Rain with occasional clear skies
+2024-11-18,5,9,50%,0.0,Rain and occasional clouds
+2024-11-19,3,8,80%,0.0,Rain with occasional clear skies
+2024-11-20,3,7,60%,0.0,Cloudy with occassional snow
+2024-11-21,3,6,60%,0.0,Clear with occasional rain
+2024-11-22,3,7,70%,0.0,Rain and occassional snow
+2024-11-23,2,6,60%,0.0,Snow with occassional sunny skies
+2024-11-24,1,5,60%,0.0,Snow with occassional sunny skies
+2024-11-25,1,4,70%,0.0,Snow with occassional sunny skies
+2024-11-26,1,6,70%,0.0,Snow with occassional sunny skies
+2024-11-27,2,5,60%,0.0,Snow with occassional sunny skies
+2024-11-28,1,5,70%,0.0,Snow and occassionally cloudy
+2024-11-29,0,5,70%,0.0,Snow and occassionally cloudy
+2024-11-30,0,3,50%,0.0,Sunny with occassional snow
+2024-12-01,0,3,80%,0.0,Snow with occassional rain
+2024-12-02,0,2,60%,0.0,Snow and occassionally cloudy
+2024-12-03,0,5,70%,0.0,Snow with occassional sunny skies
+2024-12-04,0,4,40%,0.0,Clear with occasional rain
+2024-12-05,-1,3,50%,0.0,Cloudy with occassional snow
+2024-12-06,-2,2,40%,0.0,Snow with occassional sunny skies
+2024-12-07,-2,2,70%,0.0,Snow and occassionally cloudy
+2024-12-08,-2,1,60%,0.0,Snow with occassional sunny skies
+2024-12-09,0,2,40%,0.0,Sunny with occassional snow
+2024-12-10,0,4,50%,0.0,Snow with occassional sunny skies
+2024-12-11,0,3,80%,0.0,Snow with occassional rain
+2024-12-12,-3,2,80%,0.0,Snow
+2024-12-13,-2,1,50%,0.0,Snow and occassionally cloudy
+2024-12-14,-3,1,70%,0.0,Snow
+2024-12-15,-2,0,60%,0.0,Snow and occassionally cloudy
+2024-12-16,-1,1,70%,0.0,Snow and occassionally cloudy
+2024-12-17,-2,1,60%,0.0,Snow and occassionally cloudy
+2024-12-18,-3,0,60%,0.0,Snow with occassional sunny skies
+2024-12-19,-4,-1,40%,0.0,Sunny with occassional snow
+2024-12-20,-3,0,30%,0.0,Sunny with occasional clouds
+2024-12-21,-2,1,50%,0.0,Sunny with occassional snow
+2024-12-22,-3,0,70%,0.0,Snow with occassional sunny skies
+2024-12-23,-3,0,50%,0.0,Snow with occassional sunny skies
+2024-12-24,-3,0,30%,0.0,Cloudy
+2024-12-25,-4,0,50%,0.0,Snow with occassional sunny skies
+2024-12-26,-5,-1,70%,0.0,Snow and occassionally cloudy
+2024-12-27,-5,-2,40%,0.0,Snow and occassionally cloudy

@@ -1,0 +1,91 @@
+date,min_temp,max_temp,rain_chance,total_rainfall,conditions
+2024-09-29,21,24,30%,0.0,Cloudy then sunny
+2024-09-30,19,24,20%,0.0,Cloudy with occasional clear skies
+2024-10-01,19,26,40%,0.0,Cloudy then sunny
+2024-10-02,23,32,20%,0.0,Occasionally cloudy
+2024-10-03,23,29,40%,0.7,Cloudy
+2024-10-04,23,31,20%,0.2,Mostly cloudy
+2024-10-05,21,28,60%,0.0,Mostly cloudy with occasional rain
+2024-10-06,21,27,30%,0.0,Cloudy
+2024-10-07,21,27,30%,0.0,Mostly cloudy
+2024-10-08,17,24,30%,0.0,Mostly cloudy
+2024-10-09,18,20,0%,0.0,Rain
+2024-10-10,17,19,90%,1.7,Rain
+2024-10-11,17,19,90%,2.9,Rain
+2024-10-12,16,20,90%,1.0,Rain
+2024-10-13,17,23,20%,0.0,Mostly cloudy
+2024-10-14,16,24,20%,0.0,Mostly Sunny
+2024-10-15,15,21,20%,0.0,Mostly cloudy
+2024-10-16,14,22,10%,0.0,Sunny
+2024-10-17,14,23,10%,0.0,Sunny
+2024-10-18,16,23,30%,0.0,Cloudy
+2024-10-19,17,22,70%,0.0,Thunderstorm
+2024-10-20,16,24,10%,0.0,Mostly Sunny
+2024-10-21,16,23,20%,0.0,Occasionally cloudy
+2024-10-22,16,22,30%,0.0,Occasionally cloudy
+2024-10-23,14,23,10%,0.0,Sunny
+2024-10-24,13,21,10%,0.0,Mostly Sunny
+2024-10-25,15,22,30%,0.0,Cloudy
+2024-10-26,15,22,20%,0.0,Mostly cloudy
+2024-10-27,15,22,20%,0.0,Mostly cloudy
+2024-10-28,15,22,30%,0.0,Mostly cloudy
+2024-10-29,14,21,20%,0.0,Occasionally cloudy
+2024-10-30,12,21,30%,0.0,Mostly cloudy
+2024-10-31,13,18,30%,0.0,Cloudy
+2024-11-01,14,21,60%,0.0,Rain
+2024-11-02,14,22,60%,0.0,Showers
+2024-11-03,13,21,10%,0.0,Sunny
+2024-11-04,13,21,10%,0.0,Mostly Sunny
+2024-11-05,10,21,30%,0.0,Occasionally cloudy
+2024-11-06,11,17,60%,0.0,Rain
+2024-11-07,11,17,30%,0.0,Mostly cloudy
+2024-11-08,11,18,30%,0.0,Occasionally cloudy
+2024-11-09,12,20,30%,0.0,Cloudy
+2024-11-10,12,16,30%,0.0,Cloudy
+2024-11-11,9,17,0%,0.0,Mostly cloudy
+2024-11-12,9,16,0%,0.0,Mostly cloudy
+2024-11-13,12,17,30%,0.0,Clear with occasional rain
+2024-11-14,12,17,50%,0.0,Rain with occasional clear skies
+2024-11-15,12,16,30%,0.0,Clear with occasional rain
+2024-11-16,13,17,0%,0.0,Sunny
+2024-11-17,13,17,30%,0.0,Sunny
+2024-11-18,13,17,30%,0.0,Clear with occasional rain
+2024-11-19,11,16,30%,0.0,Clear with occasional rain
+2024-11-20,11,16,30%,0.0,Clear with occasional rain
+2024-11-21,11,16,30%,0.0,Sunny
+2024-11-22,12,16,50%,0.0,Rain with occasional clear skies
+2024-11-23,11,15,30%,0.0,Clear with occasional rain
+2024-11-24,10,15,30%,0.0,Clear with occasional rain
+2024-11-25,10,14,30%,0.0,Clear with occasional rain
+2024-11-26,11,13,50%,0.0,Rain with occasional clear skies
+2024-11-27,11,14,30%,0.0,Sunny
+2024-11-28,10,15,30%,0.0,Sunny with occasional clouds
+2024-11-29,10,15,30%,0.0,Sunny
+2024-11-30,10,14,10%,0.0,Sunny
+2024-12-01,9,13,40%,0.0,Rain with occasional clear skies
+2024-12-02,8,12,20%,0.0,Sunny
+2024-12-03,9,13,20%,0.0,Sunny with occasional clouds
+2024-12-04,10,14,30%,0.0,Sunny
+2024-12-05,9,13,30%,0.0,Clear with occasional rain
+2024-12-06,8,12,30%,0.0,Clear with occasional rain
+2024-12-07,8,13,20%,0.0,Sunny
+2024-12-08,8,13,20%,0.0,Sunny
+2024-12-09,8,12,0%,0.0,Sunny
+2024-12-10,8,12,30%,0.0,Sunny
+2024-12-11,9,14,30%,0.0,Clear with occasional rain
+2024-12-12,8,13,20%,0.0,Sunny
+2024-12-13,7,12,30%,0.0,Clear with occasional rain
+2024-12-14,7,11,30%,0.0,Clear with occasional rain
+2024-12-15,7,11,30%,0.0,Sunny
+2024-12-16,8,12,20%,0.0,Sunny
+2024-12-17,6,10,50%,0.0,Rain with occasional clear skies
+2024-12-18,6,11,20%,0.0,Sunny
+2024-12-19,6,10,30%,0.0,Clear with occasional rain
+2024-12-20,6,11,20%,0.0,Sunny
+2024-12-21,7,11,0%,0.0,Sunny
+2024-12-22,7,11,40%,0.0,Clear with occasional rain
+2024-12-23,6,11,30%,0.0,Sunny
+2024-12-24,6,11,10%,0.0,Sunny
+2024-12-25,6,11,10%,0.0,Sunny
+2024-12-26,6,10,20%,0.0,Sunny
+2024-12-27,5,10,30%,0.0,Sunny
